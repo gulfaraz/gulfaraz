@@ -14,6 +14,10 @@ I'm a **software developer** and **data scientist** based in **Amsterdam, The Ne
 - [Explainable A.I. by Justification and Introspection](https://medium.com/just-ai/xai-explainable-a-i-by-justification-and-introspection-bc4e69584550)
 - [How to use the IFRC go-api?](https://ifrcgo.org/how-to-use-the-go-api/) [(code)](https://github.com/IFRCGo/how-to-use-the-go-api)
 
+🎓 I graduated in,
+- 2019, [M.Sc. Artificial Intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html) from [University of Amsterdam](https://www.uva.nl/).
+- 2011, [B.Sc. Computer Science and Engineering](https://crescent.education/computer-science-engineering/) from [Crescent Engineering College](https://crescent.education/).
+
 🎲 I'm the **dungeon master** for my [DnD 5e](https://www.dndbeyond.com/how-to-play-dnd) game which I host [*biweekly*](https://www.latimes.com/socal/daily-pilot/opinion/story/2021-02-23/a-word-please-does-bimonthly-mean-twice-a-month-or-every-two-months-heres-t-answer#:~:text=The%20Chicago%20Manual%20of%20Style,be%20explicit%20about%20the%20meaning.%E2%80%9D) for my friends. For this, I've built,
 - [DM Workshop](https://gulfaraz.github.io/dm-workshop/) [(code)](https://github.com/gulfaraz/dm-workshop)
 - [DM Screen](https://gulfaraz.github.io/dm-screen/) [(code)](https://github.com/gulfaraz/dm-screen)
