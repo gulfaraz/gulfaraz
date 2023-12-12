@@ -1,15 +1,14 @@
 ### Hello World 🌍
 
-I'm a **software developer** and **data scientist** based in **Amsterdam, The Netherlands**.
-
-🚀 I'm a co-founder of **[Just AI](https://github.com/just-a-i)**, an artificial intelligence consultancy, with my friend [Kishan](https://github.com/ximua00).
+I'm a **software developer** and **data scientist** living in **Amsterdam, The Netherlands**.
 
 🌱 Currently, I'm building **EduCafé**, a digital communication tool to **empower coffee farmers** in their fight against climate change.
 
 💻 I've collaborated with **startups, corporations and non-profits**. I've worked on,
 - [Helpful Information](https://helpfulinformation.redcross.nl/) [(code)](https://github.com/rodekruis/helpful-information)
-- [Automated Damage Assessment](https://ada.510.global/events/) [(ui)](https://github.com/rodekruis/ADA-UI) [(api)](https://github.com/rodekruis/ADA-API) [(ai)](https://github.com/rodekruis/caladrius)
+- [Automated Damage Assessment](https://next.510.global/product/ada/) [(one-pager)](https://next.510.global/wp-content/uploads/2023/11/510-ADA-onepager.pdf) [(live)](https://ada.510.global/events/) [(ui)](https://github.com/rodekruis/ADA-UI) [(api)](https://github.com/rodekruis/ADA-API) [(ai)](https://github.com/rodekruis/caladrius)
 - [Cloud Segmentation using Deep Learning for Agriculture](https://medium.com/just-ai/nimbus-cloud-segmentation-using-deep-learning-for-agriculture-5f1320b5c8aa)
+- [F.A.C.T SCORE FOR RESPONSIBLE AI](https://www.510.global/f-a-c-t-score-for-responsible-ai/) [(live)](https://rodekruis.github.io/responsible_ai/)
 - [Tesseract OCR on Identity Documents](https://medium.com/just-ai/tesseract-ocr-on-identity-documents-f3abae0ab1fc)
 - [Explainable A.I. by Justification and Introspection](https://medium.com/just-ai/xai-explainable-a-i-by-justification-and-introspection-bc4e69584550)
 - [How to use the IFRC go-api?](https://ifrcgo.org/how-to-use-the-go-api/) [(code)](https://github.com/IFRCGo/how-to-use-the-go-api)
