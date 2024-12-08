@@ -2,7 +2,7 @@
 
 I'm a **software developer** and **data scientist** living in **Amsterdam, The Netherlands**.
 
-👷 Currently, I'm working with [510](https://510.global) of **[The Netherlands Red Cross](https://github.com/rodekruis)** to support people affected by crises and hazards.
+👷 I work at [510](https://510.global) of **[The Netherlands Red Cross](https://github.com/rodekruis)** to support people affected by crises and hazards.
 
 💻 I've collaborated with **startups, corporations and non-profits**. I've worked on,
 - [Helpful Information](https://www.510.global/the-referral-app-helpful-information/) [(live)](https://helpfulinformation.redcross.nl/) [(code)](https://github.com/rodekruis/helpful-information)
