@@ -17,11 +17,9 @@ I'm a **software developer** in **Amsterdam, The Netherlands**.
 - 2019, [M.Sc. Artificial Intelligence](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html) from [University of Amsterdam](https://www.uva.nl).
 - 2011, [B.Sc. Computer Science and Engineering](https://crescent.education/computer-science-engineering) from [Crescent Engineering College](https://crescent.education).
 
-🎲 I regularly host a [dungeons and dragons](https://www.dndbeyond.com/how-to-play-dnd) game for my friends. I've built a few tools to prep for my games. They are,
-- [DM Workshop](https://gulfaraz.github.io/dm-workshop) [(code)](https://github.com/gulfaraz/dm-workshop)
-- [DM Screen](https://gulfaraz.github.io/dm-screen) [(code)](https://github.com/gulfaraz/dm-screen)
+🎲 I regularly host a [dungeons and dragons](https://www.dndbeyond.com/how-to-play-dnd) game for my friends. I built [Questionable Necessities](https://qn.gulfaraz.com) [(code)](https://github.com/gulfisgames/questionable-necessities) to help run my games.
 
-I play 🎶 [music](https://www.youtube.com/@GulfarazRahman) and ✈️ [travel](https://www.flickr.com/photos/gulfaraz) for leisure.
+🎶 I sometimes play [music](https://www.youtube.com/@GulfarazRahman).
 
 📫 You can email me at gulfaraz@gulfaraz.com
 
